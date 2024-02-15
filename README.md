@@ -9,7 +9,7 @@ Aplicação de Ecommerce que está sendo desenvolvida durante a **Mentoria Angul
 ## Setup do projeto
 
 ```
-git clone https://github.com/andrewarosario/ecommerce.git
+https://github.com/darlanalp/ecommerceMentoria.git
 cd ecommerce
 npm install
 ```
